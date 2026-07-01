@@ -1,0 +1,186 @@
+[
+  {
+    "stage": "1",
+    "type": "Individual time-trial",
+    "date": "Sat 08/22/2026",
+    "route": "Monaco > Monaco",
+    "distance": "9 km",
+    "detail": "/en/stage-1"
+  },
+  {
+    "stage": "2",
+    "type": "Hilly",
+    "date": "Sun 08/23/2026",
+    "route": "Monaco > Manosque",
+    "distance": "215.2 km",
+    "detail": "/en/stage-2"
+  },
+  {
+    "stage": "3",
+    "type": "Medium Mountains",
+    "date": "Mon 08/24/2026",
+    "route": "Gruissan - Aude > Font Romeu",
+    "distance": "166.7 km",
+    "detail": "/en/stage-3"
+  },
+  {
+    "stage": "4",
+    "type": "Mountain",
+    "date": "Tue 08/25/2026",
+    "route": "Andorra la Vella > Andorra la Vella",
+    "distance": "104.9 km",
+    "detail": "/en/stage-4"
+  },
+  {
+    "stage": "5",
+    "type": "Hilly",
+    "date": "Wed 08/26/2026",
+    "route": "Falset . Costa Daurada > Roquetes. Terres de l'Ebre",
+    "distance": "171.1 km",
+    "detail": "/en/stage-5"
+  },
+  {
+    "stage": "6",
+    "type": "Medium Mountains",
+    "date": "Thu 08/27/2026",
+    "route": "Alcossebre > Castelló",
+    "distance": "176.8 km",
+    "detail": "/en/stage-6"
+  },
+  {
+    "stage": "7",
+    "type": "Mountain",
+    "date": "Fri 08/28/2026",
+    "route": "vall d'Alba > Aramón Valdelinares",
+    "distance": "149.9 km",
+    "detail": "/en/stage-7"
+  },
+  {
+    "stage": "8",
+    "type": "Flat",
+    "date": "Sat 08/29/2026",
+    "route": "Puçol > Xeraco",
+    "distance": "176.4 km",
+    "detail": "/en/stage-8"
+  },
+  {
+    "stage": "9",
+    "type": "Mountain",
+    "date": "Sun 08/30/2026",
+    "route": "La Vila Joiosa/ Villajoyosa > Alto de Aitana.Costa Blanca",
+    "distance": "187.5 km",
+    "detail": "/en/stage-9"
+  },
+  {
+    "stage": "-",
+    "type": "Rest Day",
+    "date": "Mon 08/31/2026",
+    "route": "Descanso",
+    "distance": "",
+    "detail": "/en/rest-1"
+  },
+  {
+    "stage": "10",
+    "type": "Hilly",
+    "date": "Tue 09/01/2026",
+    "route": "Alcaraz > Elche de la Sierra",
+    "distance": "184.5 km",
+    "detail": "/en/stage-10"
+  },
+  {
+    "stage": "11",
+    "type": "Flat",
+    "date": "Wed 09/02/2026",
+    "route": "Cartagena > Lorca",
+    "distance": "156.1 km",
+    "detail": "/en/stage-11"
+  },
+  {
+    "stage": "12",
+    "type": "Mountain",
+    "date": "Thu 09/03/2026",
+    "route": "Vera > Calar Alto",
+    "distance": "166.5 km",
+    "detail": "/en/stage-12"
+  },
+  {
+    "stage": "13",
+    "type": "Medium Mountains",
+    "date": "Fri 09/04/2026",
+    "route": "Almuñécar > Loja",
+    "distance": "193.2 km",
+    "detail": "/en/stage-13"
+  },
+  {
+    "stage": "14",
+    "type": "Mountain",
+    "date": "Sat 09/05/2026",
+    "route": "Jaén > Sierra de La Pandera",
+    "distance": "152.7 km",
+    "detail": "/en/stage-14"
+  },
+  {
+    "stage": "15",
+    "type": "Medium Mountains",
+    "date": "Sun 09/06/2026",
+    "route": "Palma del Río > Córdoba",
+    "distance": "181.2 km",
+    "detail": "/en/stage-15"
+  },
+  {
+    "stage": "-",
+    "type": "Rest Day",
+    "date": "Mon 09/07/2026",
+    "route": "Descanso",
+    "distance": "",
+    "detail": "/en/rest-2"
+  },
+  {
+    "stage": "16",
+    "type": "Hilly",
+    "date": "Tue 09/08/2026",
+    "route": "Cortegana > La Rábida. Palos de la Frontera",
+    "distance": "186 km",
+    "detail": "/en/stage-16"
+  },
+  {
+    "stage": "17",
+    "type": "Flat",
+    "date": "Wed 09/09/2026",
+    "route": "Dos Hermanas > Sevilla",
+    "distance": "189.2 km",
+    "detail": "/en/stage-17"
+  },
+  {
+    "stage": "18",
+    "type": "Individual time-trial",
+    "date": "Thu 09/10/2026",
+    "route": "El Puerto de Santa María > Jerez de la Frontera",
+    "distance": "32.5 km",
+    "detail": "/en/stage-18"
+  },
+  {
+    "stage": "19",
+    "type": "Hilly. Uphill arrival",
+    "date": "Fri 09/11/2026",
+    "route": "Vélez-Málaga > Peñas Blancas. Estepona",
+    "distance": "205.1 km",
+    "detail": "/en/stage-19"
+  },
+  {
+    "stage": "20",
+    "type": "Mountain",
+    "date": "Sat 09/12/2026",
+    "route": "La Calahorra > Collado del Alguacil",
+    "distance": "187 km",
+    "detail": "/en/stage-20"
+  },
+  {
+    "stage": "21",
+    "type": "Flat",
+    "date": "Sun 09/13/2026",
+    "route": "Carrefour Granada > Granada",
+    "distance": "99.4 km",
+    "detail": "/en/stage-21"
+  }
+]

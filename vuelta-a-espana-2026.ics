@@ -1,0 +1,333 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hermes//Vuelta a Espana 2026//VI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vuelta a España 2026
+X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:vuelta2026-1-20260822-399d4dc9-60fb-58ed-98a2-38c06ccc0358@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Vuelta a España 2026 · Chặng 1 · Monaco > Monaco
+DESCRIPTION:Loại chặng: Tính giờ cá nhân (Individual time-trial)
+ \nNgày: 22/08/2026\nLộ trình: Monaco > Monaco\nCự ly: 9 km\nNguồ
+ n: https://www.lavuelta.es/en/stage-1\nGhi chú: Sự kiện all-day vì
+  nguồn chính thức hiện chưa công bố giờ xuất phát chi ti
+ ết.
+URL:https://www.lavuelta.es/en/stage-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-2-20260823-b51fd69a-61f5-59b5-b943-ec67ed75254d@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Vuelta a España 2026 · Chặng 2 · Monaco > Manosque
+DESCRIPTION:Loại chặng: Đồi (Hilly)\nNgày: 23/08/2026\nLộ trìn
+ h: Monaco > Manosque\nCự ly: 215.2 km\nNguồn: https://www.lavuelta.e
+ s/en/stage-2\nGhi chú: Sự kiện all-day vì nguồn chính thức hi
+ ện chưa công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-3-20260824-0bc99aa4-7fc9-5735-b758-b63a657d44fe@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Vuelta a España 2026 · Chặng 3 · Gruissan - Aude > Font Rome
+ u
+DESCRIPTION:Loại chặng: Medium Mountains (Medium Mountains)\nNgày: 2
+ 4/08/2026\nLộ trình: Gruissan - Aude > Font Romeu\nCự ly: 166.7 km\
+ nNguồn: https://www.lavuelta.es/en/stage-3\nGhi chú: Sự kiện all-
+ day vì nguồn chính thức hiện chưa công bố giờ xuất phát
+  chi tiết.
+URL:https://www.lavuelta.es/en/stage-3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-4-20260825-b742bf2b-38c2-5948-8d2f-b873ea2fec0c@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Vuelta a España 2026 · Chặng 4 · Andorra la Vella > Andorra 
+ la Vella
+DESCRIPTION:Loại chặng: Núi (Mountain)\nNgày: 25/08/2026\nLộ trì
+ nh: Andorra la Vella > Andorra la Vella\nCự ly: 104.9 km\nNguồn: htt
+ ps://www.lavuelta.es/en/stage-4\nGhi chú: Sự kiện all-day vì ngu
+ ồn chính thức hiện chưa công bố giờ xuất phát chi tiết
+ .
+URL:https://www.lavuelta.es/en/stage-4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-5-20260826-1383e55e-9c46-52a9-bd62-dea9091d7e81@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Vuelta a España 2026 · Chặng 5 · Falset . Costa Daurada > Ro
+ quetes. Terres de l'Ebre
+DESCRIPTION:Loại chặng: Đồi (Hilly)\nNgày: 26/08/2026\nLộ trìn
+ h: Falset . Costa Daurada > Roquetes. Terres de l'Ebre\nCự ly: 171.1 k
+ m\nNguồn: https://www.lavuelta.es/en/stage-5\nGhi chú: Sự kiện al
+ l-day vì nguồn chính thức hiện chưa công bố giờ xuất ph
+ át chi tiết.
+URL:https://www.lavuelta.es/en/stage-5
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-6-20260827-099079e6-e5e2-5452-b5b2-b8f616b6840e@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Vuelta a España 2026 · Chặng 6 · Alcossebre > Castelló
+DESCRIPTION:Loại chặng: Medium Mountains (Medium Mountains)\nNgày: 2
+ 7/08/2026\nLộ trình: Alcossebre > Castelló\nCự ly: 176.8 km\nNgu
+ ồn: https://www.lavuelta.es/en/stage-6\nGhi chú: Sự kiện all-day 
+ vì nguồn chính thức hiện chưa công bố giờ xuất phát chi
+  tiết.
+URL:https://www.lavuelta.es/en/stage-6
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-7-20260828-94b405ed-cf0a-5c87-b150-17002cd1ecd9@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Vuelta a España 2026 · Chặng 7 · vall d'Alba > Aramón Valde
+ linares
+DESCRIPTION:Loại chặng: Núi (Mountain)\nNgày: 28/08/2026\nLộ trì
+ nh: vall d'Alba > Aramón Valdelinares\nCự ly: 149.9 km\nNguồn: http
+ s://www.lavuelta.es/en/stage-7\nGhi chú: Sự kiện all-day vì nguồ
+ n chính thức hiện chưa công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-7
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-8-20260829-115406af-d241-56e9-b3cf-91b93e847e47@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Vuelta a España 2026 · Chặng 8 · Puçol > Xeraco
+DESCRIPTION:Loại chặng: Đường bằng (Flat)\nNgày: 29/08/2026\nL
+ ộ trình: Puçol > Xeraco\nCự ly: 176.4 km\nNguồn: https://www.lav
+ uelta.es/en/stage-8\nGhi chú: Sự kiện all-day vì nguồn chính th
+ ức hiện chưa công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-8
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-9-20260830-00bc586b-82ae-51a2-9181-4f436a669315@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Vuelta a España 2026 · Chặng 9 · La Vila Joiosa/ Villajoyosa
+  > Alto de Aitana.Costa Blanca
+DESCRIPTION:Loại chặng: Núi (Mountain)\nNgày: 30/08/2026\nLộ trì
+ nh: La Vila Joiosa/ Villajoyosa > Alto de Aitana.Costa Blanca\nCự ly: 
+ 187.5 km\nNguồn: https://www.lavuelta.es/en/stage-9\nGhi chú: Sự ki
+ ện all-day vì nguồn chính thức hiện chưa công bố giờ xu
+ ất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-9
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-rest-20260831-a45890c3-2b67-5ee5-88e3-f84b8eba5a1d@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Vuelta a España 2026 · Ngày nghỉ · Descanso
+DESCRIPTION:Loại chặng: Ngày nghỉ (Rest Day)\nNgày: 31/08/2026\nL
+ ộ trình: Descanso\nCự ly: \nNguồn: https://www.lavuelta.es/en/res
+ t-1\nGhi chú: Sự kiện all-day vì nguồn chính thức hiện chư
+ a công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/rest-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-10-20260901-2a1c5493-2c05-504f-b8c2-eb6dc94bacbf@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Vuelta a España 2026 · Chặng 10 · Alcaraz > Elche de la Sier
+ ra
+DESCRIPTION:Loại chặng: Đồi (Hilly)\nNgày: 01/09/2026\nLộ trìn
+ h: Alcaraz > Elche de la Sierra\nCự ly: 184.5 km\nNguồn: https://www
+ .lavuelta.es/en/stage-10\nGhi chú: Sự kiện all-day vì nguồn chí
+ nh thức hiện chưa công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-11-20260902-97a0bd03-14da-51ac-9c7f-0de931fca428@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Vuelta a España 2026 · Chặng 11 · Cartagena > Lorca
+DESCRIPTION:Loại chặng: Đường bằng (Flat)\nNgày: 02/09/2026\nL
+ ộ trình: Cartagena > Lorca\nCự ly: 156.1 km\nNguồn: https://www.l
+ avuelta.es/en/stage-11\nGhi chú: Sự kiện all-day vì nguồn chính
+  thức hiện chưa công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-11
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-12-20260903-7c4ad051-1f6c-5afa-8bb5-beb25d7b4fc8@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Vuelta a España 2026 · Chặng 12 · Vera > Calar Alto
+DESCRIPTION:Loại chặng: Núi (Mountain)\nNgày: 03/09/2026\nLộ trì
+ nh: Vera > Calar Alto\nCự ly: 166.5 km\nNguồn: https://www.lavuelta.
+ es/en/stage-12\nGhi chú: Sự kiện all-day vì nguồn chính thức 
+ hiện chưa công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-12
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-13-20260904-dca5a8a7-f296-5acd-a51b-7015e847536b@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Vuelta a España 2026 · Chặng 13 · Almuñécar > Loja
+DESCRIPTION:Loại chặng: Medium Mountains (Medium Mountains)\nNgày: 0
+ 4/09/2026\nLộ trình: Almuñécar > Loja\nCự ly: 193.2 km\nNguồn: 
+ https://www.lavuelta.es/en/stage-13\nGhi chú: Sự kiện all-day vì n
+ guồn chính thức hiện chưa công bố giờ xuất phát chi ti
+ ết.
+URL:https://www.lavuelta.es/en/stage-13
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-14-20260905-ccfa9780-0d38-5f8c-ab8e-6e2c3bb1d471@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Vuelta a España 2026 · Chặng 14 · Jaén > Sierra de La Pande
+ ra
+DESCRIPTION:Loại chặng: Núi (Mountain)\nNgày: 05/09/2026\nLộ trì
+ nh: Jaén > Sierra de La Pandera\nCự ly: 152.7 km\nNguồn: https://ww
+ w.lavuelta.es/en/stage-14\nGhi chú: Sự kiện all-day vì nguồn ch
+ ính thức hiện chưa công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-14
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-15-20260906-d15474ba-ca13-5670-a4fa-60a69084e6cf@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Vuelta a España 2026 · Chặng 15 · Palma del Río > Córdoba
+DESCRIPTION:Loại chặng: Medium Mountains (Medium Mountains)\nNgày: 0
+ 6/09/2026\nLộ trình: Palma del Río > Córdoba\nCự ly: 181.2 km\nNg
+ uồn: https://www.lavuelta.es/en/stage-15\nGhi chú: Sự kiện all-da
+ y vì nguồn chính thức hiện chưa công bố giờ xuất phát c
+ hi tiết.
+URL:https://www.lavuelta.es/en/stage-15
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-rest-20260907-8d696f98-8e48-549a-bac3-92975f2a99ea@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Vuelta a España 2026 · Ngày nghỉ · Descanso
+DESCRIPTION:Loại chặng: Ngày nghỉ (Rest Day)\nNgày: 07/09/2026\nL
+ ộ trình: Descanso\nCự ly: \nNguồn: https://www.lavuelta.es/en/res
+ t-2\nGhi chú: Sự kiện all-day vì nguồn chính thức hiện chư
+ a công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/rest-2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-16-20260908-342568c4-a7ce-52ef-88e2-182f3f903416@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Vuelta a España 2026 · Chặng 16 · Cortegana > La Rábida. Pa
+ los de la Frontera
+DESCRIPTION:Loại chặng: Đồi (Hilly)\nNgày: 08/09/2026\nLộ trìn
+ h: Cortegana > La Rábida. Palos de la Frontera\nCự ly: 186 km\nNguồ
+ n: https://www.lavuelta.es/en/stage-16\nGhi chú: Sự kiện all-day v
+ ì nguồn chính thức hiện chưa công bố giờ xuất phát chi 
+ tiết.
+URL:https://www.lavuelta.es/en/stage-16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-17-20260909-b11027b1-462a-5fc8-9dd0-78bae757dced@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Vuelta a España 2026 · Chặng 17 · Dos Hermanas > Sevilla
+DESCRIPTION:Loại chặng: Đường bằng (Flat)\nNgày: 09/09/2026\nL
+ ộ trình: Dos Hermanas > Sevilla\nCự ly: 189.2 km\nNguồn: https://
+ www.lavuelta.es/en/stage-17\nGhi chú: Sự kiện all-day vì nguồn c
+ hính thức hiện chưa công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-17
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-18-20260910-01f4ae4e-59a9-5bc4-b477-d1f4230599de@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Vuelta a España 2026 · Chặng 18 · El Puerto de Santa María 
+ > Jerez de la Frontera
+DESCRIPTION:Loại chặng: Tính giờ cá nhân (Individual time-trial)
+ \nNgày: 10/09/2026\nLộ trình: El Puerto de Santa María > Jerez de l
+ a Frontera\nCự ly: 32.5 km\nNguồn: https://www.lavuelta.es/en/stage-
+ 18\nGhi chú: Sự kiện all-day vì nguồn chính thức hiện chưa
+  công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-18
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-19-20260911-cb07d526-5457-525c-84fc-28097d52ccfd@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Vuelta a España 2026 · Chặng 19 · Vélez-Málaga > Peñas Bl
+ ancas. Estepona
+DESCRIPTION:Loại chặng: Hilly. Uphill arrival (Hilly. Uphill arrival)
+ \nNgày: 11/09/2026\nLộ trình: Vélez-Málaga > Peñas Blancas. Estep
+ ona\nCự ly: 205.1 km\nNguồn: https://www.lavuelta.es/en/stage-19\nGh
+ i chú: Sự kiện all-day vì nguồn chính thức hiện chưa công
+  bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-19
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-20-20260912-74e73a65-d5ba-590a-9384-534648da62e1@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Vuelta a España 2026 · Chặng 20 · La Calahorra > Collado del
+  Alguacil
+DESCRIPTION:Loại chặng: Núi (Mountain)\nNgày: 12/09/2026\nLộ trì
+ nh: La Calahorra > Collado del Alguacil\nCự ly: 187 km\nNguồn: https
+ ://www.lavuelta.es/en/stage-20\nGhi chú: Sự kiện all-day vì nguồ
+ n chính thức hiện chưa công bố giờ xuất phát chi tiết.
+URL:https://www.lavuelta.es/en/stage-20
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vuelta2026-21-20260913-4e75d142-5f7e-5b62-8878-c70fb96b5a9f@hermes.local
+DTSTAMP:20260701T145712Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Vuelta a España 2026 · Chặng 21 · Carrefour Granada > Granad
+ a
+DESCRIPTION:Loại chặng: Đường bằng (Flat)\nNgày: 13/09/2026\nL
+ ộ trình: Carrefour Granada > Granada\nCự ly: 99.4 km\nNguồn: http
+ s://www.lavuelta.es/en/stage-21\nGhi chú: Sự kiện all-day vì ngu
+ ồn chính thức hiện chưa công bố giờ xuất phát chi tiết
+ .
+URL:https://www.lavuelta.es/en/stage-21
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
